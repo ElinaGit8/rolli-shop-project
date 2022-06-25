@@ -32,6 +32,6 @@ function calcCartPriceAndDelivery() {
 		deliveryCost.innerText = 'бесплатно';
 	} else {
 		deliveryCost.classList.remove('free');
-		deliveryCost.innerText = '150 грн';
+		deliveryCost.innerText = '150 ₴';
 	}
 }
