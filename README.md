@@ -14,3 +14,9 @@ JavaScript training. Scripts for the website of the online store.
 9. Delivery block.
 
 Libraries connected by the author of the JS lesson.
+
+Site Developed for JavaScript training.
+Req. 06/24/2022 midday; fin. 06/24/2022 evn.
+
+Please contact me if you find this work anywhere online.
+-- Elina Pakhomova --
